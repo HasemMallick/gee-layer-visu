@@ -1,1 +1,2 @@
-geemap -c conda-forge
+geemap
+earthengine-api
