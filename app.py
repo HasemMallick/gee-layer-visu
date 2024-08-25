@@ -1,7 +1,7 @@
 import ee
 import geemap.foliumap as geemap
-import geopandas as gpd
 import streamlit as st
+# import geopandas as gpd
 
 st.markdown("""
 ## Country Border            
